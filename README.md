@@ -1,2 +1,3 @@
 # Hello-world
-Жду помощи в обучении програмированию
+Hello people starting to learn on Ruby.
+I want to use Git hub, for training.
